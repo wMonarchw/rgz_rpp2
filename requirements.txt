@@ -7,3 +7,4 @@ Werkzeug
 sqlalchemy
 flask_sqlalchemy
 flask_login
+psycopg2
